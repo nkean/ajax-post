@@ -1,4 +1,21 @@
-body {
+html, body {
     color: seashell;
     background-color: slategrey;
+    position: relative;
+    margin: auto;
+}
+
+table {
+    width: 75%;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 6px;
+    text-align: left:
+}
+
+th {
+    background-color: darkolivegreen;
 }
