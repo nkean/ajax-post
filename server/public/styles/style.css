@@ -19,3 +19,9 @@ td, th {
 th {
     background-color: darkolivegreen;
 }
+
+#inputFields {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+}
